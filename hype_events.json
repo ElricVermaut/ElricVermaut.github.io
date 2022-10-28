@@ -1,0 +1,152 @@
+[
+  {
+
+    "id": "1",
+
+    "date": "2022-11-05",
+
+    "title": "Worlds 2022 Finals",
+
+    "url": "https://lolesports.com/schedule",
+
+    "color": "#0066ff",
+
+    "imageURL": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5c/Worlds_2022.png/revision/latest/scale-to-width-down/1024?cb=20220908072813"
+
+  },
+  {
+
+    "id": "2",
+
+    "date": "2022-11-11",
+
+    "title": "The beginning of the end",
+
+    "url": "https://www.youtube.com/watch?v=kjyeCdd-dl8",
+
+    "color": "#ffcc00",
+
+    "imageURL": "https://i.ytimg.com/vi/-JspXBYjdsQ/maxresdefault.jpg"
+
+  },
+  {
+
+    "id": "3",
+
+    "date": "2022-11-12",
+
+    "title": "The end of the end",
+
+    "url": "https://overwatch.blizzard.com",
+
+    "color": "#ff751a",
+
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Overwatch_2_logo.svg/2560px-Overwatch_2_logo.svg.png"
+
+  },
+  {
+
+    "id": "4",
+
+    "date": "2022-08-30",
+
+    "title": "AI art",
+
+    "url": "https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/",
+
+    "color": "#ffbf80",
+
+    "imageURL": "https://static01.nyt.com/images/2022/09/01/business/00roose-1/merlin_212276709_3104aef5-3dc4-4288-bb44-9e5624db0b37-superJumbo.jpg?quality=75&auto=webp"
+
+  },
+  {
+
+    "id": "5",
+
+    "date": "2022-09-09",
+
+    "title": "Just an image",
+
+    "url": "https://en.wikipedia.org/wiki/%C5%8Ckami",
+
+    "color": "#ff0000",
+
+    "imageURL": "https://static.wikia.nocookie.net/okami/images/f/fb/Amaterasu_main_artwork.png/revision/latest?cb=20171114222839"
+
+  },
+  {
+
+    "id": "6",
+
+    "date": "2022-10-10",
+
+    "title": "Canadian Thanksgiving",
+
+    "url": "https://en.wikipedia.org/wiki/Thanksgiving",
+
+    "color": "#993333",
+
+    "imageURL": "https://i.swncdn.com/media/800w/via/5333-thanksgiving.jpg"
+
+  },
+  {
+
+    "id": "7",
+
+    "date": "2022-11-24",
+
+    "title": "American Thanksgiving",
+
+    "url": "https://en.wikipedia.org/wiki/Thanksgiving",
+
+    "color": "#993333",
+
+    "imageURL": "https://i.swncdn.com/media/800w/via/5333-thanksgiving.jpg"
+
+  },
+  {
+
+    "id": "8",
+
+    "date": "2022-11-02",
+
+    "title": "Day of the dead",
+
+    "url": "https://en.wikipedia.org/wiki/Day_of_the_Dead",
+
+    "color": "#ff9966",
+
+    "imageURL": "https://www.pvamu.edu/multiculturalaffairs/wp-content/uploads/sites/82/3.jpg"
+
+  },
+  {
+
+    "id": "9",
+
+    "date": "2022-12-25",
+
+    "title": "Christmas",
+
+    "url": "https://en.wikipedia.org/wiki/Christmas",
+
+    "color": "#ff0000",
+
+    "imageURL": "https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4ODE4ODA4MzY1MDAwNDY1/christmas-gettyimages-184652817.jpg"
+
+  },
+  {
+
+    "id": "10",
+
+    "date": "2022-10-31",
+
+    "title": "Haloween",
+
+    "url": "https://en.wikipedia.org/wiki/Halloween",
+
+    "color": "#ff6600",
+
+    "imageURL": "https://www.macapflag.com/blog/wp-content/uploads/2021/10/Halloween-origine-de-la-legende.jpg"
+
+  }
+]
